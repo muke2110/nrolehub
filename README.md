@@ -16,15 +16,25 @@ With automation, real-time updates, and mobile compatibility, **CampusConnect** 
 ## ✨ Features
 
 ✅ **Unified Portal**: Centralized access for event information, registration, and management.
+
 ✅ **Automation**: Streamlined processes for event registration, payments, and certificate generation.
+
 ✅ **💳 Payment Integration**: Secure online payments for event fees, supporting multiple payment gateways.
+
 ✅ **🔐 Role-Based Access Control**: Different levels of access for students, organizers, and administrators.
+
 ✅ **🏆 Leaderboard System**: Tracks and displays top performers in various events and competitions.
+
 ✅ **📢 Notification System**: Automated email and in-app notifications for registrations, payments, and updates.
+
 ✅ **📜 Certificate Verification**: Unique certificate IDs for online validation and authenticity checks.
+
 ✅ **📊 Data Insights & Reports**: Track event performance with analytics and reports for organizers.
+
 ✅ **⚡ Dynamic Event Management**: Create, update, and manage events and subevents with flexible options.
+
 ✅ **📩 Complaint Management**: Users can submit complaints or concerns, which admins can review and resolve.
+
 ✅ **📱 Responsive Design**: Fully optimized for desktop and mobile users.
 
 ---
