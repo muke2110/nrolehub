@@ -85,7 +85,7 @@ npm run dev
 ### 🖥 **Backend:**
 - 🟢 [Node.js](https://nodejs.org/) - JavaScript runtime.
 - 🚀 [Express](https://expressjs.com/) - Web framework for Node.js.
-- 🛢 [PostgreSQL](https://www.postgresql.org/) - Relational database system.
+- 🐘 [PostgreSQL](https://www.postgresql.org/) - Relational database system.
 
 ---
 
