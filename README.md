@@ -89,6 +89,11 @@ npm run dev
 
 ---
 
+## 📜 License
+This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
+
+---
+
 ## 📞 Contact
 
 💌 **Email:** [mukesh.nagineni@gmail.com](mailto:mukesh.nagineni@gmail.com)  
